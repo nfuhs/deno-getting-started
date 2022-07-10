@@ -1,2 +1,2 @@
-# deno-getting-started
-Getting started with deno
+# Deno getting started
+Getting started with Deno
